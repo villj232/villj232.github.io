@@ -1,0 +1,21 @@
+<html>
+  <head>
+
+  </head>
+  <body>
+
+    <h1 style="color: black"> <font-size="20" face= "didot">TRENDER</font></h1>
+
+    <p style="color: black"> <font size="6" face= "futura">The Trendy Fashion App</font></p>
+
+    <div id="nav">
+    <ul>
+    <li><a href="">Home</a></li>
+    <li><a href="">About</a></li>
+    <li><a href="">Contact</a></li>
+  </ul>
+  </div>
+
+  <div class="left">
+
+					This is the left column!!!

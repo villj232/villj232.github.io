@@ -1,0 +1,41 @@
+body {
+  background-image: url("images/background.png");
+  background-color: red;
+  font-family: "arial", sans-serif;
+}
+
+.wrapper {
+  width: 50%;
+  margin: auto;
+  background-color: white;
+  padding: 10px;
+}
+.awesomeclass{
+  color: #44FF33;
+
+}
+#directions{
+  color: #ff0088
+}
+
+.awesomeclass .awesome {
+
+  color: #0000FF
+}
+
+.blue {
+  color: blue;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+ h2{
+  color: #e7642c;
+  font-family: 'Montserrat', sans-serif;
+}

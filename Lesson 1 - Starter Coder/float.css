@@ -1,0 +1,49 @@
+
+
+
+
+.left{
+width:200px;
+height: 645px;
+background: #ff8888;
+float:left;
+margin: 10px;
+padding: 10px;
+border-style: solid;
+border-color: red;
+
+}
+
+
+.center{
+width: 200px;
+height: 645px;
+background: #ff8888;
+float:left;
+margin: 10px;
+padding:10px;
+border-style: solid;
+border-color: red;
+
+
+
+}
+
+
+.right{
+  width: 200px;
+  height: 645px;
+  background: #ff8888;
+  float: left;
+  margin: 10px;
+  padding:10px;
+  border-style: solid;
+  border-color: red;
+
+}
+
+
+.clear {
+
+  clear:both;
+}
