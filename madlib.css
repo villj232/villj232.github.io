@@ -1,0 +1,12 @@
+function madLibs() {
+
+    var storyDiv = document.getElementById("story");
+    var name = document.getElementById("name").value;
+    var adjective = document.getElementById("adjective").value;
+    var food = document.getElementById("food").value;
+    var action = document.getElementById("action").value;
+    storyDiv.innerHTML = name + " ate a " + adjective + food + " and then " + action ... Ew!";
+  }
+
+  var libButton = document.getElementById('lib-button');
+  libButton.addEventListener('click', madLibs);
